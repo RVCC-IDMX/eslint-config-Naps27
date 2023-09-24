@@ -8,5 +8,9 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+    "no-console": "off", 
+    "no-trailing-spaces": "error",
+    "semi": "error",
+    "linebreak-style": ["error", "unix"]
     }
 }
