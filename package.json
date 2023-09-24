@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Andrew Napoleone <naps277@gmail.com> (https://github.com/Naps27)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.6",
+    "eslint": "^8.50.0"
+  }
 }
